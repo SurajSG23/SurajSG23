@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 [Click Here](https://github.com/SurajSG23?tab=repositories) to check out all my  projects
+- 👨‍💻 [Click Here](https://github.com/SurajSG23?tab=repositories) to check out all my Repos
 
 - 📫 How to reach me **surajsgd23@gmail.com**
 
