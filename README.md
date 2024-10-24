@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&" alt="surajsg23" /></p>
 
-[![An image of @surajsg23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/surajsg23)](https://holopin.io/@surajsg23)
