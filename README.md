@@ -26,6 +26,6 @@
 
 # Badges 🎖️
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
- <a href="https://www.holopin.io/@surajsg23#badges" target="_blank"> <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /><a/>
+ <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" /><a/>
 </div>
 
