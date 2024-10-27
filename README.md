@@ -26,6 +26,6 @@
 
 # Badges 🎖️
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
- <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/SurajSG23/SurajSG23/main/Hacktoberfest.png)" alt="javascript" width="200px" height="200px"/> </a>
+ <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SurajSG23/SurajSG23/main/Hacktoberfest.png" alt="Hacktoberfest" width="200px" height="200px"/> </a>
 </div>
 
