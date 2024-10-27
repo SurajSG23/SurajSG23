@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&" alt="surajsg23" /></p>
 
-# Badges 🎖️
+<h3 align="left">Badges 🎖️</h3>
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
  <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SurajSG23/SurajSG23/main/Hacktoberfest.png" alt="Hacktoberfest" width="200px"/> </a>
  <a href="https://hacktoberfest.com/profile/" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/GSSOC.png" alt="gssoc" width="150px"/> </a>
