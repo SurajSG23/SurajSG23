@@ -27,7 +27,7 @@
 # Badges 🎖️
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
  <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SurajSG23/SurajSG23/main/Hacktoberfest.png" alt="Hacktoberfest" width="200px"/> </a>
- <a href="https://hacktoberfest.com/profile/" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/GSSOC.png" alt="gssoc" width="200px"/> </a>
+ <a href="https://hacktoberfest.com/profile/" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/GSSOC.png" alt="gssoc" width="150px"/> </a>
  <a href="https://badgr.com/public/assertions/EieCONYAT2qF6m7RIfKRZg?identity__email=surajsgd23@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Postman.png" alt="Postman" width="200px"/> </a>
 </div>
 
