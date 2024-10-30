@@ -42,6 +42,6 @@
   <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082400.png" alt="gssoc" width="145px"/> </a>
   <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082414.png" alt="gssoc" width="145px"/> </a>
   <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082432.png" alt="gssoc" width="145px"/> </a>
-  <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082452.png" alt="gssoc" width="145px"/> </a>
+  <a href="https://www.holopin.io/@surajsg23#badges" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082452.png" alt="gssoc" width="145px" title="HacktoberFest"/> </a>
 </div>
 
