@@ -29,7 +29,7 @@
 
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
   <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/postman-gssoc.png" alt="gssoc" width="150px"/> </a>
- <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/explorer.png" alt="gssoc" width="150px"/> </a>
+ <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/blob/main/Badges/gssoc/explorer-new.png" alt="gssoc" width="150px"/> </a>
  <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/adventurer.png" alt="gssoc" width="150px"/> </a>
  <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/trailblazer.png" alt="gssoc" width="150px"/> </a>
  <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/summit-seeker.png" alt="gssoc" width="150px"/> </a>
