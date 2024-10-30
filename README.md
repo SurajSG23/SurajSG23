@@ -28,19 +28,16 @@
 <h3 align="center">GSSoC-2024</h3>
 
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
+  <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  
-  //<a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/postman-gssoc.png" alt="gssoc" width="120px" title="Postman Badge"/> </a>
-// <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/blob/main/Badges/gssoc/explorer-new.png" alt="gssoc" width="120px" title="Explorer Badge"/> </a>
- //<a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/adventurer.png" alt="gssoc" width="120px" title="Adventurer Badge"/> </a>
- //<a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/trailblazer.png" alt="gssoc" width="120px" title="Trailblazer Badge"/> </a>
- //<a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/gssoc/summit-seeker.png" alt="gssoc" width="120px" title="Summit Seeker Badge"/> </a>
-// <a href="https://gssoc.girlscript.tech/contributorAnalytics" target="_blank" rel="noreferrer"> <img src="https://github.com/SurajSG23/SurajSG23/blob/main/Badges/gssoc/champion.png" alt="gssoc" width="120px" title="Champion Badge"/> </a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+</a>
+</div>
 </div>
 
 <h3 align="center">HacktoberFest</h3>
