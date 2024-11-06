@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">Student @ SJCE</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **WebDevelopment**
 
 - 🌱 I’m currently learning **ReactJS**
 
