@@ -23,6 +23,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&" alt="surajsg23"/></p>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2 align="left">Badges 🎖️</h2>
 <h3 align="center">GSSoC-2024</h3>
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
