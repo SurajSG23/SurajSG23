@@ -6,11 +6,9 @@
 
 <h1><a href="https://suraj-23-portfolio.vercel.app/" target="_blank">Visit My Portfolio ↗</a></h1>
 
-- 🔭 I’m currently working on <b>Web Development</b>
+- 🔭 I’m currently working on <b>Backend Development</b>
 
-- 🌱 I’m currently learning **ReactJS**
-
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 [Click Here](https://github.com/SurajSG23?tab=repositories) to check out all my Repos
 
