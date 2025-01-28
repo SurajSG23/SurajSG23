@@ -4,8 +4,12 @@
 <h3 align="center">Student @ SJCE</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-<h1>[Visit My Portfolio ↗️](suraj-23-portfolio.vercel.app)
-  
+
+
+<b> [Visit My Portfolio ↗](https://suraj-23-portfolio.vercel.app/) </b>
+
+
+
 - 🔭 I’m currently working on <b>Web Development</b>
 
 - 🌱 I’m currently learning **ReactJS**
@@ -13,7 +17,6 @@
 - 👨‍💻 [Click Here](https://github.com/SurajSG23?tab=repositories) to check out all my Repos
 
 - 📫 How to reach me **surajsgd23@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suraj-s-g-dhanva-995a23298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-s-g-dhanva-995a2" height="30" width="40" /></a>
