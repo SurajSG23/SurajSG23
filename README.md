@@ -4,13 +4,11 @@
 <h3 align="center">Student @ SJCE</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-
-
-<b> [Visit My Portfolio ↗](https://suraj-23-portfolio.vercel.app/) </b>
-
-
+<h1><a href="https://suraj-23-portfolio.vercel.app/" target="_blank">Visit My Portfolio ↗</a></h1>
 
 - 🔭 I’m currently working on <b>Web Development</b>
+
+- 🌱 I’m currently learning **ReactJS**
 
 - 🌱 I’m currently learning **ReactJS**
 
