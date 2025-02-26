@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsg23&show_icons=true&locale=en&layout=compact" alt="surajsg23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&" alt="surajsg23"/></p>
-
+<br>
 <h2 align="left">Badges 🎖️</h2>
 <h3 align="center">GSSoC-2024</h3>
 <div style='display:flex; align-items:center; gap: 50px;' align='center'>
