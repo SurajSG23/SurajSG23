@@ -4,7 +4,6 @@
 <h3 align="center">Student @ SJCE</h3>
 
 <h1><a href="https://suraj-23-portfolio.vercel.app/" target="_blank">Visit My Portfolio ↗</a></h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 - 🔭 I’m currently working on <b>Backend Development</b>
 
