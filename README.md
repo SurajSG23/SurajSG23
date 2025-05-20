@@ -59,7 +59,7 @@
 
 #### 🗄️ Backend & Database
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express.js"/>
+  <img src="https://img.icons8.com/office16/512/express-js.png" width="40" height="40" title="Express.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="40" height="40" title="Firebase"/>
 </p>
@@ -68,7 +68,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" title="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" title="Vercel"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" width="40" height="40" title="Vercel"/>
   <img src="https://uploadthing.com/favicon.ico" width="40" height="40" title="UploadThing"/>
 </p>
 
