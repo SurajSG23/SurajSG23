@@ -4,7 +4,9 @@
 </p>
 
 <h3 align="center">Student @ SJCE | Intern @ Deloitte </h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajsg23&label=Profile%20Views&color=0e75b6&style=flat" alt="surajsg23" />
+</p>
 <p align="center">
   <a href="https://suraj-23-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Visit My Portfolio-black?style=for-the-badge" alt="Portfolio Link"/>
