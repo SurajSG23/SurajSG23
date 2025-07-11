@@ -19,7 +19,7 @@
 
 - 🔭 Currently working on **Backend Development**
 - 🌱 Learning **NodeJS, FastAPI, and LangChain**
-- 💬 Ask me about **Frontend, React, MERN stack, Firebase, and PDF/AI integrations**
+- 💬 Ask me about **Frontend, React, MERN stack and Firebase**
 - 📫 Reach me at: **surajsgd23@gmail.com**
 - 👨‍💻 Explore all my repos: [GitHub Profile](https://github.com/SurajSG23?tab=repositories)
 
