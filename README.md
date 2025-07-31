@@ -105,7 +105,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsg23&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajSG23&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajSG23&" alt="GitHub Streak" />
 </p>
 
 ---
