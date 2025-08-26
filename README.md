@@ -75,30 +75,6 @@
 
 ---
 
-### 🏅 Achievements & Badges:
-
-#### GSSoC 2024
-<p>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100" title="Hack-Web3Conf"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" title="Postman Badge"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" title="Explorer"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" title="Adventurer"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" title="Trailblazer"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" title="Summit Seeker"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" title="Champion"/>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" title="Git Explorer"/>
-</p>
-
-#### HacktoberFest
-<p>
-  <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082339.png" width="145" title="Registered"/>
-  <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082400.png" width="145" title="Level 1"/>
-  <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082414.png" width="145" title="Level 2"/>
-  <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082432.png" width="145" title="Level 3"/>
-  <img src="https://github.com/SurajSG23/SurajSG23/raw/main/Badges/hacktober-fest/Screenshot%202024-10-30%20082452.png" width="145" title="Level 4"/>
-</p>
-
----
 
 ### 📊 GitHub Stats:
 <p>
