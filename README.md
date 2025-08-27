@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dr3uuqnuz/image/upload/v1747719232/github-header-image_p6cwmu.png" alt="MasterHeader" />
+  <img src="https://res.cloudinary.com/dr3uuqnuz/image/upload/v1756274128/github-header-banner_1_xkyrm4.png" alt="MasterHeader" />
 </p>
 
 <h3 align="center">Student @ SJCE | Intern @ Deloitte </h3>
