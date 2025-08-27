@@ -82,7 +82,7 @@
 </p>
 
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajSG23&theme=radical" alt="GitHub Streak" />
 </p>
 
 
