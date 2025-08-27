@@ -81,6 +81,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajsg23&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsg23&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 <p align="center">
