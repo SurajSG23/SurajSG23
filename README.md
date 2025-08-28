@@ -3,7 +3,7 @@
   <img src="https://res.cloudinary.com/dr3uuqnuz/image/upload/v1756274128/github-header-banner_1_xkyrm4.png" alt="MasterHeader" />
 </p>
 
-<h3 align="center">Student @ SJCE | Intern @ Deloitte </h3>
+<h3 align="center">Student @ SJCE </h3>
 
 <p align="center">
   <a href="https://suraj-23-portfolio.vercel.app/" target="_blank">
