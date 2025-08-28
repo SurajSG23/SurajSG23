@@ -99,6 +99,6 @@ const suraj = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SurajSG23&label=Profile%20Views&color=blueviolet&style=for-the-badge)
   
-  **Thanks for visiting! Let's build something amazing together! 🚀**
+  **Thanks for visiting!🙂**
   
 </div>
