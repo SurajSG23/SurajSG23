@@ -58,6 +58,7 @@ const suraj = {
 ## 🚀 **Tech Arsenal**
 
 <div align="center">
+  
 ### **Languages & Core Technologies**
 <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,nodejs&theme=dark" />
 
