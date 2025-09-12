@@ -95,10 +95,10 @@ const suraj = {
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=SurajSG23&label=Profile%20Views&color=blueviolet&style=for-the-badge)
   
   **Thanks for visiting!😄**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
 </div>
