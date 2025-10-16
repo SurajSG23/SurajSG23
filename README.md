@@ -58,18 +58,28 @@ const suraj = {
 ## 🚀 **Tech Arsenal**
 
 <div align="center">
-  
+
 ### **Languages & Core Technologies**
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,python,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" />
 
-### **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+### **Web Development**
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,mongodb,mysql,firebase,bootstrap&theme=dark" />
 
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=express,mongodb,firebase,mysql&theme=dark" />
+### **AI Principles & Practical Applications**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-0055FF?style=for-the-badge&logo=graph&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-0078FF?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 
 ### **Tools & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,postman,figma&theme=dark" />
 
 </div>
 
