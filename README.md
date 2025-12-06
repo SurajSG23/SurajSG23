@@ -102,6 +102,7 @@ const suraj = {
 ---
 
 <div align="center">
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=SurajSG23&label=Profile%20Views&color=blueviolet&style=for-the-badge)
   
   **Thanks for visiting!😄**
