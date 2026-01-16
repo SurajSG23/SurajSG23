@@ -20,7 +20,7 @@
 const suraj = {
     currentFocus: "Backend Development",
     learning: ["NodeJS", "FastAPI", "LangChain", "Docker"],
-    expertise: ["MERN Stack", "React", "Firebase", "API Design"],
+    expertise: ["MERN Stack", "React", "Firebase","Git & Github"],
     currentlyWorking: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm proud of it! 😄",
     location: "Karnataka, India",
