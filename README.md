@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%40+SJCE+%7C+Intern+%40+Deloitte;Exploring+MERN+%26+Beyond;AI+Enthusiast%2C+Web+Dev+Explorer;Learning.+Building.+Growing.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%40+SJCE+%7C+Intern+%40+Deloitte;Exploring+MERN+%26+Beyond;AI+Enthusiast%2C+Web+Dev+Explorer;Learning.+Building.+Growing.)
 
 </div>
 
